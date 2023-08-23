@@ -23,7 +23,7 @@ Let's connect and explore how my unique journey and passion for development can 
 🔧 ## 💼 Skills & Tools
 
 **Development Skills**
-- **Front-End Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, React Native, Native Base, Styled Components
+- **Front-End Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, React Native, Styled Components
 - **UI Frameworks & Libraries:** Native Base, Expo, Vite, Next.js, MUI5, Tailwind CSS
 - **Backend & Database:** Firebase, PostgreSQL, SQLite
 - **Development methodologies:** Scrum
