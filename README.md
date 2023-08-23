@@ -20,12 +20,20 @@ My video game background has taught me to fuse creativity with technical experti
 I thrive on challenges, tackling them head-on with tenacity and determination. I don't stop until I find solutions that work.
 
 Let's connect and explore how my unique journey and passion for development can add value to your projects.
-🔧 Skills
+🔧 ## 💼 Skills & Tools
 
-    Front-End Technologies: HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, React Native
-    UI Frameworks & Libraries: Native Base, Expo, Vite, Next.js, MUI5, Tailwind CSS
-    Backend & Database: Firebase
-    Version Control: Git
+**Development Skills**
+- **Front-End Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, React Native
+- **UI Frameworks & Libraries:** Native Base, Expo, Vite, Next.js, MUI5, Tailwind CSS
+- **Backend & Database:** Firebase
+- **Version Control:** Git
+
+**Development Tools**
+- **IDE/Code Editor:** Visual Studio Code (VS Code)
+- **Project Management:** Clickup, Trello, Bitrix
+- **Database Tools:** PGAdmin, DBeaver
+- **Content Management:** WordPress
+- **API Testing:** Insomnia
 
 📊 GitHub Stats
 
