@@ -30,7 +30,7 @@ Let's connect and explore how my unique journey and passion for development can 
 📊 GitHub Stats
 
 <a>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=renanbianchi&show_icons=true&rank_icon=percentile&custom_title=My%20Stats&hide=prs&theme=dracula" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=renanbianchi&show_icons=true&hide_rank=true&custom_title=My%20Stats&hide=prs&theme=dracula" />
 </a>
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renanbianchi&layout=compact&langs_count=8&card_width=320" />
