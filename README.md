@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/renanbianchi/renanbianchi/assets/57647129/271497bf-281e-423a-913e-2c56d0eebae7" alt="Renan Bianchi" width="200" height="200">
+  <img src="https://github.com/renanbianchi/renanbianchi/assets/57647129/271497bf-281e-423a-913e-2c56d0eebae7" alt="Renan Bianchi" width="200" height="200"">
 </p>
 <h1 align="center">Hi, I'm Renan! 👋</h1>
 <p align="center">
-  A software engineer with a passion for crafting immersive user experiences.
+  A front-end & mobile developer with a passion for crafting interactive user experiences.
 </p>
 <p align="center">
   <a href="mailto:renanbianchi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -29,7 +29,7 @@ Let's connect and explore how my unique journey and passion for development can 
 
 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanbianchi&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanbianchi&show_icons=true&custom_title=Total%20Commits&hide=prs&theme=dracula)
 
 🌐 Let's Connect!
 
