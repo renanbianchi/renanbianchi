@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/renanbianchi/renanbianchi/assets/57647129/271497bf-281e-423a-913e-2c56d0eebae7" alt="Renan Bianchi" width="200" height="200"">
+ <img src="![animation_lloe72k4_small](https://github.com/renanbianchi/renanbianchi/assets/57647129/772261a6-c427-4d42-93f8-b3c66c49403e)
+" width="200" height="200">
 </p>
 <h1 align="center">Hi, I'm Renan! 👋</h1>
 <p align="center">
