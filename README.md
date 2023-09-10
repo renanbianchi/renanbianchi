@@ -12,7 +12,7 @@
 🚀 About Me
 
 Hi there! I'm Renan, and I'm on a thrilling journey as a Junior Front-End & Mobile Developer. I come from a successful background in the dynamic video game market, where innovation and creativity are key. With over a decade of industry experience, I bring a unique perspective to the world of development.
-💡 What Sets Me Apart
+💡
 
 My video game background has taught me to fuse creativity with technical expertise. This blend enables me to craft seamless and engaging user experiences that stand out in the digital landscape. I'm dedicated to continuous growth, constantly refining my skills to produce clean, functional, and optimized code.
 🎮 Embracing Challenges
