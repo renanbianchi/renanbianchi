@@ -9,10 +9,12 @@
   <a href="mailto:renanbianchi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/bianchirenan/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-🚀 About Me
+
+##  🚀 About Me
 
 Hi there! I'm Renan, and I'm on a thrilling journey as a Junior Front-End & Mobile Developer. I come from a successful background in the dynamic video game market, where innovation and creativity are key. With over a decade of industry experience, I bring a unique perspective to the world of development.
-💡
+
+## 💡 What Sets Me Apart
 
 My video game background has taught me to fuse creativity with technical expertise. This blend enables me to craft seamless and engaging user experiences that stand out in the digital landscape. I'm dedicated to continuous growth, constantly refining my skills to produce clean, functional, and optimized code.
 🎮 Embracing Challenges
@@ -20,7 +22,8 @@ My video game background has taught me to fuse creativity with technical experti
 I thrive on challenges, tackling them head-on with tenacity and determination. I don't stop until I find solutions that work.
 
 Let's connect and explore how my unique journey and passion for development can add value to your projects.
-🔧 ## 💼 Skills & Tools
+
+ ## 💼 Skills & Tools
 
 **Development Skills**
 - **Front-End Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, React Native, Styled Components
