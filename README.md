@@ -39,7 +39,7 @@ Let's connect and explore how my unique journey and passion for development can 
 - **Content Management:** WordPress
 - **API Testing:** Insomnia
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <a>
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=renanbianchi&show_icons=true&hide_rank=true&custom_title=My%20Stats&hide=prs&theme=dracula" />
@@ -48,6 +48,6 @@ Let's connect and explore how my unique journey and passion for development can 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renanbianchi&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-🌐 Let's Connect!
+## 🌐 Let's Connect!
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always excited to chat about development, collaboration, and new opportunities.
