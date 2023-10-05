@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="mailto:renanbianchi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/bianchirenan/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/bianchirenan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ##  🚀 About Me
