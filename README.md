@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi, I'm Renan! 👋</h1>
 <p align="center">
-  A front-end & mobile developer with a passion for crafting interactive user experiences.
+  A full-stack developer with a passion for crafting interactive user experiences.
 </p>
 <p align="center">
   <a href="mailto:renanbianchi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -26,9 +26,9 @@ Let's connect and explore how my unique journey and passion for development can 
  ## 💼 Skills & Tools
 
 **Development Skills**
-- **Front-End Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, React Native, Styled Components
-- **UI Frameworks & Libraries:** Native Base, Expo, Vite, Next.js, MUI5, Tailwind CSS
-- **Backend & Database:** Firebase, PostgreSQL, SQLite
+- **Front-End Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, React Native
+- **UI Frameworks & Libraries:** Native Base, Expo, Vite, Next.js, MUI5, Tailwind CSS, Styled Components
+- **Backend & Database:** NodeJS, Firebase, PostgreSQL, SQLite,
 - **Development methodologies:** Scrum
 - **Version Control:** Git
 
