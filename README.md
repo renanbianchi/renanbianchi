@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi, I'm Renan! 👋</h1>
 <p align="center">
-  A full-stack developer with a passion for crafting interactive user experiences.
+  Full-stack developer with a passion for crafting interactive user experiences.
 </p>
 <p align="center">
   <a href="mailto:renanbianchi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
