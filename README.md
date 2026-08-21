@@ -42,10 +42,10 @@ Let's connect and explore how my unique journey and passion for development can 
 ## 📊 GitHub Stats
 
 <a>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=renanbianchi&show_icons=true&hide_rank=true&custom_title=My%20Stats&hide=prs&theme=dracula" />
+  <img height=200 align="left" src="https://github-stats-extended.vercel.app/api/?username=renanbianchi&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Renan%27s+Stats&number_format=long&show=prs_merged_percentage,prs_reviewed" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renanbianchi&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=renanbianchi&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## 🌐 Let's Connect!
